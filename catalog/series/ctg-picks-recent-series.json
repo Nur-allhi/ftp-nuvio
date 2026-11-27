@@ -1,3 +1,11 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "ctg-2d724636b50d",
+      "type": "series",
+      "name": "Revival (TV Series 2025-)",
+      "releaseInfo": "2025",
+      "poster": "http://new.circleftp.net:5000/uploads/28faf92c-6c0a-440d-9991-0eed7f2bb576.jpeg"
+    }
+  ]
 }
