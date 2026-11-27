@@ -1,9 +1,10 @@
 {
   "streams": [
     {
-      "name": "CircleFTP · Direct",
+      "name": "Direct",
       "title": "Last Man in Tower (2026) 1080p WEB-DL Hindi x264",
       "url": "http://index1.circleftp.net/FILE/Hindi%20Movies/2026/Last%20Man%20in%20Tower%20%282026%29%201080p%20WEB-DL%20Hindi%20x264/Last%20Man%20in%20Tower%20%282026%29%201080p%20WEB-DL%20Hindi%20x264.mkv",
+      "subtitles": [],
       "behaviorHints": {
         "notWebReady": false
       }

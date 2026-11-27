@@ -1,9 +1,10 @@
 {
   "streams": [
     {
-      "name": "CircleFTP · Direct",
+      "name": "Direct",
       "title": "Jailer 2 (2026) 1080p WEB-DL Dual Audio",
       "url": "http://ftp13.circleftp.net/FILE/Tamil%20Telugu%20%26%20Others%20Hindi%20Dubbed/2026/Jailer%202%20%282026%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BTamil%5D%20x264/Jailer%202%20%282026%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BTamil%5D%20x264.mkv",
+      "subtitles": [],
       "behaviorHints": {
         "notWebReady": false
       }

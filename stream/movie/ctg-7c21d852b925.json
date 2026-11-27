@@ -1,9 +1,10 @@
 {
   "streams": [
     {
-      "name": "CircleFTP · Direct",
+      "name": "Direct",
       "title": "The Mosquito Bowl (2026) 1080p WEB-DL Dual Audio",
       "url": "http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2026/The%20Mosquito%20Bowl%20%282026%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/The%20Mosquito%20Bowl%20%282026%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv",
+      "subtitles": [],
       "behaviorHints": {
         "notWebReady": false
       }

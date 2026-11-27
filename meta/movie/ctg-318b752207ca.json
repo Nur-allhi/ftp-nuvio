@@ -12,9 +12,10 @@
         "title": "Inception (2010) 1080p BluRay Dual Audio",
         "streams": [
           {
-            "name": "CircleFTP · Direct",
+            "name": "Direct",
             "title": "Inception (2010) 1080p BluRay Dual Audio",
             "url": "http://index.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2010/Inception%20%282010%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/Inception%20%282010%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv",
+            "subtitles": [],
             "behaviorHints": {
               "notWebReady": false
             }
