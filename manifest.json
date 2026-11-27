@@ -1,0 +1,114 @@
+{
+  "id": "org.ftpnuvio.picks.static",
+  "version": "1.0.0",
+  "name": "FTP Nuvio Picks",
+  "description": "Cherry-picked movies and shows from your directories",
+  "resources": [
+    {
+      "name": "catalog",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "idPrefixes": [
+        "tt",
+        "ctg"
+      ]
+    },
+    {
+      "name": "meta",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "idPrefixes": [
+        "tt",
+        "ctg"
+      ]
+    },
+    {
+      "name": "stream",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "idPrefixes": [
+        "tt",
+        "ctg"
+      ]
+    }
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "id": "ctg-picks-movies",
+      "type": "movie",
+      "name": "My Movies",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "ctg-picks-series",
+      "type": "series",
+      "name": "My Series",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "ctg-picks-recent-movies",
+      "type": "movie",
+      "name": "Recently Added",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "ctg-picks-recent-series",
+      "type": "series",
+      "name": "Recently Added",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "idPrefixes": [
+    "tt",
+    "ctg"
+  ],
+  "behaviorHints": {
+    "configurable": false
+  }
+}
