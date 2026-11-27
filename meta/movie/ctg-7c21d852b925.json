@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "id": "ctg-7c21d852b925",
+    "type": "movie",
+    "name": "The Mosquito Bowl (2026) 1080p WEB-DL Dual Audio",
+    "releaseInfo": "2026",
+    "description": "Picked from circleftp",
+    "poster": "http://new.circleftp.net:5000/uploads/4ade56a7-679a-404a-adf1-e9ec5749b9a5.jpeg",
+    "videos": [
+      {
+        "id": "ctg-7c21d852b925",
+        "title": "The Mosquito Bowl (2026) 1080p WEB-DL Dual Audio",
+        "streams": [
+          {
+            "name": "CircleFTP · Direct",
+            "title": "The Mosquito Bowl (2026) 1080p WEB-DL Dual Audio",
+            "url": "http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2026/The%20Mosquito%20Bowl%20%282026%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/The%20Mosquito%20Bowl%20%282026%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv",
+            "behaviorHints": {
+              "notWebReady": false
+            }
+          }
+        ]
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "ctg-7c21d852b925",
+      "hasScheduledVideos": false
+    }
+  }
+}

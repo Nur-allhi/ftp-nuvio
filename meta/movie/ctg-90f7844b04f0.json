@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "id": "ctg-90f7844b04f0",
+    "type": "movie",
+    "name": "Jailer 2 (2026) 1080p WEB-DL Dual Audio",
+    "releaseInfo": "2026",
+    "description": "Picked from circleftp",
+    "poster": "http://new.circleftp.net:5000/uploads/3a9b4d8f-c5ef-414b-a616-878e28e42e9b.jpeg",
+    "videos": [
+      {
+        "id": "ctg-90f7844b04f0",
+        "title": "Jailer 2 (2026) 1080p WEB-DL Dual Audio",
+        "streams": [
+          {
+            "name": "CircleFTP · Direct",
+            "title": "Jailer 2 (2026) 1080p WEB-DL Dual Audio",
+            "url": "http://ftp13.circleftp.net/FILE/Tamil%20Telugu%20%26%20Others%20Hindi%20Dubbed/2026/Jailer%202%20%282026%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BTamil%5D%20x264/Jailer%202%20%282026%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BTamil%5D%20x264.mkv",
+            "behaviorHints": {
+              "notWebReady": false
+            }
+          }
+        ]
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "ctg-90f7844b04f0",
+      "hasScheduledVideos": false
+    }
+  }
+}
