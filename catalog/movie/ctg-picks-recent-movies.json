@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "ctg-e22c3d1bd885",
+      "type": "movie",
+      "name": "Apocalypse Z: New World",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w500/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg"
+    },
+    {
       "id": "ctg-318b752207ca",
       "type": "movie",
       "name": "Inception (2010) 1080p BluRay Dual Audio",
