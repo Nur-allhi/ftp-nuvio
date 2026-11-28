@@ -13,8 +13,26 @@
         "streams": [
           {
             "name": "Direct",
-            "title": "1080p BluRay",
+            "title": "4K BluRay · auto:serverC",
+            "url": "https://media.ctgfun.com/disk11/4K%20Movies%20Collection/Marvel%20Cinematic%20Universe/Iron.Man.2008.INTERNAL.REMASTERED.2160p.UHD.BluRay.X265%20%5BDDN%5D/Iron.Man.2008.INTERNAL.REMASTERED.2160p.UHD.BluRay.X265%20%5BDDN%5D.mkv",
+            "subtitles": [],
+            "behaviorHints": {
+              "notWebReady": false
+            }
+          },
+          {
+            "name": "Direct",
+            "title": "1080p BluRay · auto:serverB",
             "url": "https://movie.ctgfun.com/disk1/English%20Movies/2008/Iron%20Man%201%20%282008%29%20Hindi%20English%201080p%20BluRay%20x264%20ESub%20%5BDDN%5D/Iron%20Man%201%20(2008)%20Hindi%20English%201080p%20BluRay%20x264%20ESub%20%5bDDN%5d.mp4",
+            "subtitles": [],
+            "behaviorHints": {
+              "notWebReady": false
+            }
+          },
+          {
+            "name": "Direct",
+            "title": "720p BluRay · auto:serverA",
+            "url": "https://ftp.ctgfun.com/English/Iron%20Man%201%20%282008%29%20Hindi%20English%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D/Iron%20Man%201%20%282008%29%20Hindi%20English%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D.mp4",
             "subtitles": [],
             "behaviorHints": {
               "notWebReady": false
