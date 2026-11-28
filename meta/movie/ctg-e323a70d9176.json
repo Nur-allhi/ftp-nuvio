@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "ctg-e323a70d9176",
+    "type": "movie",
+    "name": "Iron Man",
+    "releaseInfo": "2008",
+    "description": "Picked from ctg-movies",
+    "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "videos": [
+      {
+        "id": "ctg-e323a70d9176",
+        "title": "Iron Man",
+        "streams": [
+          {
+            "name": "Direct",
+            "title": "1080p BluRay",
+            "url": "https://movie.ctgfun.com/disk1/English%20Movies/2008/Iron%20Man%201%20%282008%29%20Hindi%20English%201080p%20BluRay%20x264%20ESub%20%5BDDN%5D/Iron%20Man%201%20(2008)%20Hindi%20English%201080p%20BluRay%20x264%20ESub%20%5bDDN%5d.mp4",
+            "subtitles": [],
+            "behaviorHints": {
+              "notWebReady": false
+            }
+          }
+        ]
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "ctg-e323a70d9176",
+      "hasScheduledVideos": false
+    }
+  }
+}
